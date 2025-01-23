@@ -181,7 +181,8 @@ Web: <https://bio.neteng.pro>
 ---
 
 Special thanks to the original publisher of this material,
-**[@finalboss@mas.to](https://mas.to/@finalboss).** Forked from
+**[@finalboss@mas.to](https://mas.to/@finalboss).**  
+Forked from
 [piyushkumar-prog/Hardening-Brave-Browser](https://github.com/piyushkumar-prog/Hardening-Brave-Browser).
 
 &nbsp;
@@ -194,19 +195,17 @@ and Open Source Software Community<br /> Copyright &copy; 2024-2025
 
 Licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** and
 the **[GNU GPL](https://spdx.org/licenses/GPL-3.0-or-later.html)**, as published
-by the Free Software Foundation, either version 3 of the License, or (at your
-option) any later version.
+by the Free Software Foundation,  
+either version 3 of the License, or (at your option) any later version.
+
+</code>
 
 This material is free to distribute, remix, adapt, and build upon for any
 purpose, including commercial use. As free software, it can be redistributed and
-modified under the
-[specified terms](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/assets%2FLICENSE.md#gnu-gpl).
+modified under the [specified terms](LICENSE.md).
 
 NetEng-Pro is provided **_as is_** and **_as available_** without any
 warranties, express or implied. The Licensor makes no representations or
 guarantees regarding the Licensed Material and assumes no liability for its use.
 
-For details, see
-[Copyright and Licensing](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/assets%2FLICENSE.md).
-
-</code>
+For details, see [Copyright and Licensing](LICENSE.md).
