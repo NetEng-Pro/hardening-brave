@@ -27,25 +27,17 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-  
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          node-version: '18'
-  
-      - name: Cache Jekyll dependencies
-        uses: actions/cache@v3
-        with:
-          path: .jekyll-cache
-          key: ${{ runner.os }}-jekyll-${{ hashFiles('**/*.{html,md,js,css,scss}') }}
-          restore-keys: |
-            ${{ runner.os }}-jekyll-
-  
+          ruby-version: "3.0"
+
       - name: Install Jekyll
-        run: npm install -g jekyll
-  
+        run: gem install jekyll bundler
+
       - name: Build with Jekyll
-        run: jekyll build -d ./_site
+        run: bundle exec jekyll build -d ./_site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
