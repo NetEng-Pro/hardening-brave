@@ -34,10 +34,10 @@ jobs:
           ruby-version: "3.0"
 
       - name: Install Jekyll
-        run: gem install jekyll bundler
+        run: gem install jekyll
 
       - name: Build with Jekyll
-        run: bundle exec jekyll build -d ./_site
+        run: jekyll build -d ./_site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
