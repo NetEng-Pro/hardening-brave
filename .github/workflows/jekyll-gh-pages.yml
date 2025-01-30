@@ -20,45 +20,36 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # CodeQL analysis job
-  codeql:
+  check-codeql:
+    name: Check CodeQL Analysis
     runs-on: ubuntu-24.04
-    permissions:
-      actions: read
-      contents: read
-      security-events: write
-    strategy:
-      matrix:
-        language: [ 'javascript', 'python' ]
-        # CodeQL supports [ 'cpp', 'csharp', 'go', 'java', 'javascript', 'kotlin', 'python', 'ruby', 'swift' ]
-        # Learn more about CodeQL language support at https://aka.ms/codeql-docs/language-support
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Initializes the CodeQL tools for scanning.
-      - name: Initialize CodeQL
-        uses: github/codeql-action/init@v2
-        with:
-          languages: ${{ matrix.language }}
+      - name: Set up GitHub CLI
+        run: sudo apt-get install gh
 
-      # Autobuild attempts to build any compiled languages (C/C++, C#, or Java).
-      # If this step fails, then you should remove it and run the build manually (see below)
-      - name: Autobuild
-        uses: github/codeql-action/autobuild@v2
+      - name: Authenticate GitHub CLI
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: echo "${{ secrets.GH_PAT }}" | gh auth login --with-token
 
-      # ℹ️ Command-line programs to run using the OS shell.
-      # If the build fails, add these steps and remove the autobuild step above.
-      #- run: |
-      #   make bootstrap
-      #   make release
+      - name: Check CodeQL Workflow
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          gh run list --workflow "CodeQL" --json conclusion --jq '.[0].conclusion' > codeql_status.txt
+          CODEQL_STATUS=$(cat codeql_status.txt)
+          if [[ "$CODEQL_STATUS" != "success" ]]; then
+            echo "CodeQL Analysis did not succeed. Exiting..."
+            exit 1
+          fi
+          rm codeql_status.txt
 
-      - name: Perform CodeQL Analysis
-        uses: github/codeql-action/analyze@v2
-
-  # Build job
   build:
     runs-on: ubuntu-24.04
+    # Require the codeql job to complete successfully before running
     needs: codeql
     steps:
       - name: Checkout
