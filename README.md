@@ -1,7 +1,7 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later -->
 <!-- This file is part of Network Engineering Pro -->
-<!--
 
+<!--
 Network Engineering Pro (NetEng-Pro), a Free/Libre and Open Source Community
 Copyright © 2024-2025 Scott Lopez
 
@@ -41,7 +41,6 @@ See the GNU General Public License for more details.
 Author: Scott Lopez
 Email: <contact@neteng.pro>
 Web: <https://bio.neteng.pro>
-
 -->
 
 # <a id="top">Hardening-Brave-Browser</a>
