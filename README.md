@@ -43,6 +43,8 @@ Email: <contact@neteng.pro>
 Web: <https://bio.neteng.pro>
 -->
 
+[SPDX-License-Identifier](https://spdx.dev/learn/handling-license-info/): `CC-BY-4.0 OR GPL-3.0-or-later`
+
 # <a id="top">Hardening-Brave-Browser</a>
 
 1. **Download Brave Browser** from [Brave](https://www.brave.com) or GitHub:  
@@ -186,25 +188,25 @@ Forked from
 
 &nbsp;
 
+| [![cc-by](https://forthebadge.com/images/badges/cc-by.png)](https://creativecommons.org/licenses/by/4.0/) | [![gnu-gpl](https://raw.githubusercontent.com/NetEng-Pro/dev-neteng-pro/refs/heads/master/img/gpl3-small.png)](https://www.gnu.org/licenses/gpl-3.0.html) | [![fsf](https://raw.githubusercontent.com/NetEng-Pro/dev-neteng-pro/refs/heads/master/img/fsf-member.png)](https://my.fsf.org/join?referrer=6725885) |
+| :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+
+&nbsp;
+
 <code style="height: 50vh; width: 100%; background: transparent; border: none; border-radius: 0; resize: none; outline: none;">
 
-**[Network Engineering Pro](https://neteng.pro/)** (NetEng-Pro), a Free/Libre
-and Open Source Software Community<br /> Copyright &copy; 2024-2025
-**[Scott Lopez](https://bio.neteng.pro)**
+**[Network Engineering Pro](https://neteng.pro/)** (NetEng-Pro), a Free/Libre and Open Source Software Community  
+Copyright &copy; 2024-2025 **[Scott Lopez](https://bio.neteng.pro)**
 
-Licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** and
-the **[GNU GPL](https://spdx.org/licenses/GPL-3.0-or-later.html)**, as published
-by the Free Software Foundation,  
+Licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** and the **[GNU GPL](https://spdx.org/licenses/GPL-3.0-or-later.html)**, as published by the Free Software Foundation,  
 either version 3 of the License, or (at your option) any later version.
 
 </code>
 
-This material is free to distribute, remix, adapt, and build upon for any
-purpose, including commercial use. As free software, it can be redistributed and
-modified under the [specified terms](LICENSE.md).
+&nbsp;
 
-NetEng-Pro is provided **_as is_** and **_as available_** without any
-warranties, express or implied. The Licensor makes no representations or
-guarantees regarding the Licensed Material and assumes no liability for its use.
+<span style="text-align: center; font-size: 14px; font-weight: bold;">
 
-For details, see [Copyright and Licensing](LICENSE.md).
+[Terms and Conditions](https://github.com/NetEng-Pro/dev-neteng-pro/blob/master/legal/TERMS.md) &nbsp; | &nbsp; [Copyright and Licensing](https://github.com/NetEng-Pro/dev-neteng-pro/blob/master/LICENSE.md)
+
+</span>

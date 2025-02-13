@@ -3,14 +3,17 @@
 #
 # Ignore artifacts
 
+.*
+**/*.xml
 **/.vscode
 **/.git
 **/.svn
 **/.hg
+**/dist
 **/node_modules
+**/assets/license
+postcss.config.js
+eslint.config.mjs
+babel.config.json
 build
 coverage
-.gitignore
-.gitattributes
-.editorconfig
-.browserlistrc
