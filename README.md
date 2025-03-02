@@ -1,19 +1,17 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later -->
-<!-- This file is part of Network Engineering Pro -->
+<!-- This file is part of Network Pro -->
 
 <!--
-Network Engineering Pro (NetEng-Pro), a Free/Libre and Open Source Community
+Network Pro Strategies (Network Pro)
 Copyright © 2024-2025 Scott Lopez
 
 ---
 
 I. Creative Commons Attribution 4.0 International
 
-Network Engineering Pro (the "Licensed Material") is licensed under Creative Commons Attribution 4.0 International ("CC BY 4.0").
-To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.
+Network Engineering Pro (the "Licensed Material") is licensed under Creative Commons Attribution 4.0 International ("CC BY 4.0"). To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.
 
-Per the terms of the License, you are free to distribute, remix, adapt, and build upon the Licensed Material for any purpose, even commercially.
-You must give appropriate credit, provide a link to the License, and indicate if changes were made.
+Per the terms of the License, you are free to distribute, remix, adapt, and build upon the Licensed Material for any purpose, even commercially. You must give appropriate credit, provide a link to the License, and indicate if changes were made.
 
 The Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable.
 
@@ -28,8 +26,7 @@ II. GNU General Public License
 
 Network Engineering Pro is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License ("GNU GPL") as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-This material is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
-FITNESS FOR A PARTICULAR PURPOSE.
+This material is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 See the GNU General Public License for more details.
 
@@ -192,12 +189,27 @@ Forked from
 
 &nbsp;
 
-| [![cc-by](https://forthebadge.com/images/badges/cc-by.png)](https://creativecommons.org/licenses/by/4.0/) | [![gnu-gpl](https://img.shields.io/badge/LICENSE-GPLv3-red?style=for-the-badge&labelColor=9b9b9b&color=d0021b)](https://www.gnu.org/licenses/gpl-3.0.html) | [![fsf](https://netwk.pro/img/fsf-member.png)](https://my.fsf.org/join?referrer=6725885) |
-| :-------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
+<style type="text/css">
+.bg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.bg td {border-color:transparent;border-width:1px;font-family:Arial, Helvetica, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.bg th {border-color:transparent;border-width:1px;font-family:Arial, Helvetica, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.bg .bg-cell {text-align:center;vertical-align:top}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
+<div class="bg-wrap"><table class="bg"><tbody>
+  <tr>
+    <td class="bg-cell"><a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by/4.0/"><img src="https://forthebadge.com/images/badges/cc-by.png" alt="CC BY 4.0"></a></td>
+    <td class="bg-cell"><a rel="noopener noreferrer" href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/badge/LICENSE-GPLv3-red?style=for-the-badge&labelColor=9b9b9b&color=d0021b" alt="GPL v3 or later"></a></td>
+    <td class="bg-cell"><a rel="noopener noreferrer" href="https://my.fsf.org/join?referrer=6725885"><img src="https://netwk.pro/img/fsf-member.png" alt="Free Software Foundation">
+    </td>
+  </tr>
+</tbody>
+</table></div>
 
 &nbsp;
 
-<span style="font-size: 12px; font-weight: bold; text-align: center;">[Terms and Conditions](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/legal/TERMS.md) &nbsp; | &nbsp; [Copyright and Licensing](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/LICENSE.md) &nbsp; | &nbsp; [Privacy Policy](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/legal/PRIVACY.md)</span>
+[Terms and Conditions](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/legal/TERMS.md) &nbsp; | &nbsp; [Copyright and Licensing](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/LICENSE.md) &nbsp; | &nbsp; [Privacy Policy](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/legal/PRIVACY.md)
 
 &nbsp;
 
