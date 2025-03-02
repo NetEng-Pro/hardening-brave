@@ -58,6 +58,8 @@ Web: <https://bio.neteng.pro>
 
 ---
 
+<!-- markdownlint-disable MD029 -->
+
 2. **Off Telemetry** ✅  
    ![Picsart_22-12-08_12-45-24-332](https://user-images.githubusercontent.com/104879897/206441617-bd616617-cdb4-4039-92d6-a6e1c355dcd5.jpg)
 
@@ -132,6 +134,8 @@ Web: <https://bio.neteng.pro>
 11. **Change Search Engine** ✅  
     ![Picsart_22-12-08_15-10-39-560](https://user-images.githubusercontent.com/104879897/206441720-daedc536-d771-48e6-b0f4-4c618285f8e0.jpg)
 
+<!-- markdownlint-enable MD029 -->
+
 > [Brave Search](https://search.bravesearch.brave.com) or a self-hosted
 > [SearXNG](https://docs.searxng.org) instance is preferable. Avoid Google and
 > Bing at all costs!
@@ -188,25 +192,17 @@ Forked from
 
 &nbsp;
 
-| [![cc-by](https://forthebadge.com/images/badges/cc-by.png)](https://creativecommons.org/licenses/by/4.0/) | [![gnu-gpl](https://raw.githubusercontent.com/NetEng-Pro/dev-neteng-pro/refs/heads/master/img/gpl3-small.png)](https://www.gnu.org/licenses/gpl-3.0.html) | [![fsf](https://raw.githubusercontent.com/NetEng-Pro/dev-neteng-pro/refs/heads/master/img/fsf-member.png)](https://my.fsf.org/join?referrer=6725885) |
-| :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+| [![cc-by](https://forthebadge.com/images/badges/cc-by.png)](https://creativecommons.org/licenses/by/4.0/) | [![gnu-gpl](https://img.shields.io/badge/LICENSE-GPLv3-red?style=for-the-badge&labelColor=9b9b9b&color=d0021b)](https://www.gnu.org/licenses/gpl-3.0.html) | [![fsf](https://netwk.pro/img/fsf-member.png)](https://my.fsf.org/join?referrer=6725885) |
+| :-------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
 
 &nbsp;
 
-<code style="height: 50vh; width: 100%; background: transparent; border: none; border-radius: 0; resize: none; outline: none;">
+<span style="font-size: 12px; font-weight: bold; text-align: center;">[Terms and Conditions](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/legal/TERMS.md) &nbsp; | &nbsp; [Copyright and Licensing](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/LICENSE.md) &nbsp; | &nbsp; [Privacy Policy](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/legal/PRIVACY.md)</span>
 
-**[Network Engineering Pro](https://neteng.pro/)** (NetEng-Pro), a Free/Libre and Open Source Software Community  
+&nbsp;
+
+**[Network Pro Strategies](https://netwk.pro/) (Network Pro)**  
 Copyright &copy; 2024-2025 **[Scott Lopez](https://bio.neteng.pro)**
 
 Licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** and the **[GNU GPL](https://spdx.org/licenses/GPL-3.0-or-later.html)**, as published by the Free Software Foundation,  
 either version 3 of the License, or (at your option) any later version.
-
-</code>
-
-&nbsp;
-
-<span style="text-align: center; font-size: 14px; font-weight: bold;">
-
-[Terms and Conditions](https://github.com/NetEng-Pro/dev-neteng-pro/blob/master/legal/TERMS.md) &nbsp; | &nbsp; [Copyright and Licensing](https://github.com/NetEng-Pro/dev-neteng-pro/blob/master/LICENSE.md)
-
-</span>
