@@ -189,26 +189,6 @@ Forked from
 
 &nbsp;
 
-<style type="text/css">
-.bg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.bg td {border-color:transparent;border-width:1px;font-family:Arial, Helvetica, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.bg th {border-color:transparent;border-width:1px;font-family:Arial, Helvetica, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.bg .bg-cell {text-align:center;vertical-align:top}
-@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
-<div class="bg-wrap"><table class="bg"><tbody>
-  <tr>
-    <td class="bg-cell"><a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by/4.0/"><img src="https://forthebadge.com/images/badges/cc-by.png" alt="CC BY 4.0"></a></td>
-    <td class="bg-cell"><a rel="noopener noreferrer" href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/badge/LICENSE-GPLv3-red?style=for-the-badge&labelColor=9b9b9b&color=d0021b" alt="GPL v3 or later"></a></td>
-    <td class="bg-cell"><a rel="noopener noreferrer" href="https://my.fsf.org/join?referrer=6725885"><img src="https://netwk.pro/img/fsf-member.png" alt="Free Software Foundation">
-    </td>
-  </tr>
-</tbody>
-</table></div>
-
-&nbsp;
-
 [Terms and Conditions](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/legal/TERMS.md) &nbsp; | &nbsp; [Copyright and Licensing](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/LICENSE.md) &nbsp; | &nbsp; [Privacy Policy](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/legal/PRIVACY.md)
 
 &nbsp;
